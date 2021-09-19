@@ -1,0 +1,12 @@
+npx create-react-app
+
+in server:
+	npm i express
+	npm i nodemon
+in pkg.json scripts {dev: 'nodemon index.js'}
+
+for cors: npm i cors
+mongoDB: npm i mongoose
+	to start mogodb server type in cmd mongod
+npm i react-router-dom
+npm i jsonwebtoken
